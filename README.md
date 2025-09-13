@@ -1,4 +1,4 @@
-```markdown
+
 <!--
    ✨ Dharshan V's GitHub README ✨
    Crafted for recruiters, collaborators, and curious devs!
@@ -108,4 +108,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:805ad5,100:ffca28&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontAlign=50" />
 </p>
-```
+
